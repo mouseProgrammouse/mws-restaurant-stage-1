@@ -14,7 +14,7 @@ This site is part of the [Front-End Web Developer Nanodegree Program](https://eu
   [Starter code](https://github.com/udacity/mws-restaurant-stage-1) provided by Udacity.
 
 ## Screenshots
-  <img src="https://github.com/mouseProgrammouse/mws-restaurant-stage-1/blob/master/screenshots/screenshotSmall.png" width="500">
+  <img src="https://github.com/mouseProgrammouse/mws-restaurant-stage-1/blob/master/screenshots/screnshotSmall.png" width="500">
 
 ## Instalation
 
